@@ -1,0 +1,2 @@
+2024-08-13T14:43:44+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\tasty-bites-catering\wp-includes\Requests\src\Transport\Curl.php on line 205
+
